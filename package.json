@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-bot-sekolah",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp untuk jadwal sekolah dan reminder",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["whatsapp", "bot", "baileys"],
+  "author": "Zylaon",
+  "license": "MIT",
+  "dependencies": {
+    "@fuxxy-star/baileys": "latest",
+    "@hapi/boom": "^10.0.1",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "moment-timezone": "^0.5.43",
+    "node-cron": "^3.0.3",
+    "pino": "^8.17.2"
+  }
+}
