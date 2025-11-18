@@ -1,0 +1,10 @@
+{
+  "prefix": "",
+  "reminderTime": "18:45",
+  "sleepTimeStart": "21:00",
+  "sleepTimeEnd": "21:35",
+  "autoReminderEnabled": true,
+  "autoSholatEnabled": true,
+  "autoSleepEnabled": true,
+  "autoScheduleChangeEnabled": true
+}
